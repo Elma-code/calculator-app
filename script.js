@@ -18,3 +18,4 @@ function calculate() {
   } catch (error) {
     display.value = 'Error';
   }
+}
